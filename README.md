@@ -4,7 +4,7 @@ Data was obtained from the Atlanta Police Department (https://www.atlantapd.org/
 An overall downward trend was seen in crime from 2009-2020.
  
 
-However, an increase in violent crimes was seen in 2020.
+However, an increase in violent crimes was seen in 2020, with a 40% increase in homicides from the previous year.
  
 
 Breaking down crimes by the time of day, it was revealed that most crimes occur in the afternoon and night (12PM - 12AM). In 2020, less crime occurred during the times where many people may have usually been at work: morning, afternoon and night.
