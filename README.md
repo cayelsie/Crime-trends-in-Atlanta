@@ -2,7 +2,7 @@ The aim of this collaborative project was to analyze crime data from Atlanta, lo
 Data was obtained from the Atlanta Police Department (https://www.atlantapd.org/) Raw Crime Data Download (2009-2020). 
 
 An overall downward trend was seen in crime from 2009-2020.
-![](images/overall-trend)
+![](images/overall-trend.png)
  
 
 However, an increase in violent crimes was seen in 2020, with a 40% increase in homicides from the previous year.
